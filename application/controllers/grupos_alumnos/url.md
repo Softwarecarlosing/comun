@@ -1,0 +1,5 @@
+'/grupos_alumnos', 'application.controllers.grupos_alumnos.index.Index',
+'/grupos_alumnos/view/(.+)', 'application.controllers.grupos_alumnos.view.View',
+'/grupos_alumnos/edit/(.+)', 'application.controllers.grupos_alumnos.edit.Edit',
+'/grupos_alumnos/delete/(.+)', 'application.controllers.grupos_alumnos.delete.Delete',
+'/grupos_alumnos/insert', 'application.controllers.grupos_alumnos.insert.Insert',

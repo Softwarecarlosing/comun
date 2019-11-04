@@ -1,0 +1,5 @@
+'/area_atencion', 'application.controllers.area_atencion.index.Index',
+'/area_atencion/view/(.+)', 'application.controllers.area_atencion.view.View',
+'/area_atencion/edit/(.+)', 'application.controllers.area_atencion.edit.Edit',
+'/area_atencion/delete/(.+)', 'application.controllers.area_atencion.delete.Delete',
+'/area_atencion/insert', 'application.controllers.area_atencion.insert.Insert',

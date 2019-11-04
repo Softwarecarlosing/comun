@@ -1,0 +1,5 @@
+'/aspectos_economicos', 'application.controllers.aspectos_economicos.index.Index',
+'/aspectos_economicos/view/(.+)', 'application.controllers.aspectos_economicos.view.View',
+'/aspectos_economicos/edit/(.+)', 'application.controllers.aspectos_economicos.edit.Edit',
+'/aspectos_economicos/delete/(.+)', 'application.controllers.aspectos_economicos.delete.Delete',
+'/aspectos_economicos/insert', 'application.controllers.aspectos_economicos.insert.Insert',

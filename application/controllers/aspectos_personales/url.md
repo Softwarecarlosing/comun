@@ -1,0 +1,5 @@
+'/aspectos_personales', 'application.controllers.aspectos_personales.index.Index',
+'/aspectos_personales/view/(.+)', 'application.controllers.aspectos_personales.view.View',
+'/aspectos_personales/edit/(.+)', 'application.controllers.aspectos_personales.edit.Edit',
+'/aspectos_personales/delete/(.+)', 'application.controllers.aspectos_personales.delete.Delete',
+'/aspectos_personales/insert', 'application.controllers.aspectos_personales.insert.Insert',
